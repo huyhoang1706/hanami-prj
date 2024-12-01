@@ -1,5 +1,9 @@
-import Image from "next/image";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Nhà Hàng Hanami",
+};
 
 export default function Home() {
-  return <div>Home</div>;
+  return <div className="min-h-screen">Home</div>;
 }
