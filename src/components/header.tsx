@@ -26,7 +26,7 @@ export default function Header() {
         <Link href="#" className="text-lg font-semibold">
           Ưu Đãi
         </Link>
-        <Link href="#" className="text-lg font-semibold">
+        <Link href="/about-us" className="text-lg font-semibold">
           Giới Thiệu
         </Link>
         <Link href="#" className="text-lg font-semibold">
